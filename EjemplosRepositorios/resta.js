@@ -1,4 +1,4 @@
 //funcion resta en js
-export default resta(a,b){
+export default function resta(a,b){
     return a-b;
 }
